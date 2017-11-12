@@ -1,3 +1,5 @@
+// Run is on https://riders.uber.com/trips page to get the current page amounts + summary
+
 (() => {
     let sum = 0;
     $('.trip-expand__origin .text--right').each(function(){
