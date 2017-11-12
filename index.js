@@ -1,4 +1,5 @@
 // Run is on https://riders.uber.com/trips page to get the current page amounts + summary
+// Tip: bablify it (https://babeljs.io/repl/) to create a bookmarklet in your browser
 
 (() => {
     let sum = 0;
